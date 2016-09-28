@@ -14,4 +14,3 @@ en prompt "mata in pinkod"
 						fel nr 3
 						du har inte åtkomst
 						Stopp
-glöm inte loopen
