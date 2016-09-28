@@ -14,3 +14,8 @@ en prompt "mata in pinkod"
 						fel nr 3
 						du har inte åtkomst
 						Stopp
+
+Nu du ska du få se på ful kod!! Mouahahahah
+ if(annelie == trött){
+ 	console.log("Skärp dig du får inte gå hem ännu");
+ }
