@@ -15,3 +15,6 @@ var fel = 1;
 	}
 }
 pinKoll();
+
+
+//jag lägger helt enkelt bara till en kommentar i vår kod
